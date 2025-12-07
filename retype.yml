@@ -11,18 +11,30 @@ branding:
   title: HeavenCube
   label: v1.21.10
   logo: "assets/logo/HC_regular.png"
+  logoAlign: left
 
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Site
+  link: https://heavencube.fr
+- text: Vote
+  link: https://heavencube.fr/vote
+- text: Boutique
+  link: https://heavencube.fr/boutique
+- text: Staffs
+  link: https://heavencube.fr/staff
+- text: Discord
+  link: https://heavencube.fr/?ref=wiki-discord
+  icon: "comment-discussion-24"
+
+css:
+  - assets/css/custom.css
 
 meta:
   title: " | HeanveCube"
 
 favicon: "assets/favicons/favicon.ico"
 
-edtior:
-  enabled: true
+showSidebarFilter: false
 
 footer:
-  copyright: "&copy; HeavenCube {{ year }}. All rights reserved."
+  copyright: "© Copyright {{ year }}. [HeavenCube](https://heavencube.fr/) Tous droits réservés."
