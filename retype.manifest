@@ -1,12 +1,36 @@
 {
   "version": "3.11.0",
-  "created": "2025-12-07T18:05:06Z",
+  "created": "2025-12-07T20:02:18Z",
   "files": [
     {
       "path": ".nojekyll"
     },
     {
       "path": "404.html"
+    },
+    {
+      "path": "assets\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "path": "assets\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "path": "assets\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "path": "assets\\favicons\\favicon-16x16.png"
+    },
+    {
+      "path": "assets\\favicons\\favicon-32x32.png"
+    },
+    {
+      "path": "assets\\favicons\\favicon.ico"
+    },
+    {
+      "path": "assets\\favicons\\site.webmanifest"
+    },
+    {
+      "path": "assets\\logo\\hc_regular.png"
     },
     {
       "path": "CNAME"
