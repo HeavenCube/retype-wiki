@@ -1,6 +1,6 @@
 {
   "version": "3.11.0",
-  "created": "2025-12-07T20:36:29Z",
+  "created": "2025-12-07T23:14:27Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -54,7 +54,8 @@
       "path": "resources\\js\\lunr.js"
     },
     {
-      "path": "resources\\js\\prism.js"
+      "path": "resources\\js\\prism.js",
+      "old": true
     },
     {
       "path": "resources\\js\\retype.js"

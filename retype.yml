@@ -1,5 +1,5 @@
 input: .
-output: .retype
+output: docs
 
 url: wiki.heavencube.fr # Use your website address here
 
@@ -16,18 +16,19 @@ branding:
 links:
 - text: Site
   link: https://heavencube.fr
+  icon: "comment-discussion-24"
 - text: Vote
   link: https://heavencube.fr/vote
+  icon: "comment-discussion-24"
 - text: Boutique
   link: https://heavencube.fr/boutique
+  icon: "comment-discussion-24"
 - text: Staffs
   link: https://heavencube.fr/staff
+  icon: "comment-discussion-24"
 - text: Discord
   link: https://heavencube.fr/?ref=wiki-discord
   icon: "comment-discussion-24"
-
-css:
-  - assets/css/custom.css
 
 meta:
   title: " | HeanveCube"
