@@ -1,4 +1,4 @@
-input: ./src
+input: .
 output: retype
 
 url: heavencube.github.io/wiki.heavencube.fr/ # Use your website address here
