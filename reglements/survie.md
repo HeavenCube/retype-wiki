@@ -6,8 +6,9 @@ icon: repo
 
 Bienvenue sur **HeavenCube** ! Notre objectif est de t'offrir une expérience de jeu agréable, basée sur le respect, la créativité et l'entraide. En jouant ici, tu acceptes de respecter les règles suivantes.
 
-[!info] 
+!!!info Info
 Ce règlement s'applique à l'ensemble de nos services (Jeu, Discord, Site).
+!!!
 
 ---
 
