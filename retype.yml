@@ -10,7 +10,7 @@ start:
 branding:
   title: HeavenCube
   label: 1.21.11
-  logo: "assets/logo/HC_regular.png"
+  logo: "https://heavencube.fr/storage/img/website-logo-compressed.webp"
   logoAlign: left
 
 links:
@@ -31,7 +31,7 @@ links:
   icon: "comment-discussion-24"
 
 meta:
-  title: " | HeanveCube"
+  title: " | HeavenCube"
 
 favicon: "assets/favicons/favicon.ico"
 
