@@ -30,7 +30,7 @@ Ne divulgue jamais d'informations personnelles (adresse, nom réel, téléphone,
 
 ---
 
-## 🎮 Règles du Jeu (Survie)
+## :skull_and_crossbones: Règles du Jeu (Survie)
 
 ### 1. Triche et Avantages déloyaux
 Toute forme de triche est bannie. Cela inclut :
@@ -55,14 +55,14 @@ Le grief est toléré dans le monde récolte, aucun remboursement ne sera effect
 
 ---
 
-## 🏰 Clans et Pwarps
+## :camping: Clans et Pwarps
 
 * **Nom :** Les noms de clans et des pwarps doivent rester corrects (pas de noms provocants).
 * **Limites :** Un clan est limité à **3 pwarps** au total.
 
 ---
 
-## 👤 Gestion des Comptes
+## :busts_in_silhouette: Gestion des Comptes
 
 * **Multi-comptes :** Tu as le droit à **2 comptes maximum** par joueur.
 * **Connexion simultanée :** Il est interdit d'être connecté avec tes deux comptes en même temps.
@@ -71,7 +71,7 @@ Le grief est toléré dans le monde récolte, aucun remboursement ne sera effect
 
 ---
 
-## 📜 Sanctions et Contestations
+## :scroll: Sanctions et Contestations
 
 Le staff veille au respect de ces règles. Voici comment nous fonctionnons :
 
@@ -81,12 +81,12 @@ Le staff veille au respect de ces règles. Voici comment nous fonctionnons :
 
 !!!success Contestation
 Si tu penses qu'une sanction est injuste, ouvre un **[Ticket sur Discord](https://heavencube.fr/?ref=social-discord)**.
-💡 PS: Le contournement de sanction avec un autre compte aggravera la sanction déjà présente.
+:bulb: PS: Le contournement de sanction avec un autre compte aggravera la sanction déjà présente.
 !!!
 
 ---
 
 !!!info Mise à jour du règlement
 Nous pouvons modifier ces règles à tout moment, sans forcément prévenir à l'avance.
-Reste attentif aux **Annonces** et aux **Changelogs** sur notre **[Discord](https://heavencube.fr/?ref=social-discord)**.
+:loudspeaker: Reste attentif aux **Annonces** et aux **Changelogs** sur notre **[Discord](https://heavencube.fr/?ref=social-discord)**.
 !!!
