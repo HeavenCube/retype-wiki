@@ -12,10 +12,6 @@ branding:
 search:
   preload: true
 
-generator:
-  directoryIndex:
-    append: true
-
 links:
 - text: Site
   link: https://heavencube.fr

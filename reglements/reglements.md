@@ -1,5 +1,5 @@
 ---
-icon: icon-discussion-closed
+icon: discussion-closed
 expanded: true
 ---
 # Règlements
