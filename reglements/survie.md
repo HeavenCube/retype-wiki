@@ -12,7 +12,7 @@ Ce règlement s'applique à l'ensemble de nos services (Jeu, Discord, Site).
 
 ---
 
-## 🤝 Comportement et Respect
+## :handshake: Comportement et Respect
 
 ### 1. Respect d'autrui
 Le respect est la base. Les insultes, le harcèlement, la discrimination (racisme, sexisme, homophobie, etc.) et tout comportement toxique sont strictement interdits.
