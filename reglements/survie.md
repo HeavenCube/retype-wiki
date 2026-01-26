@@ -1,6 +1,10 @@
 ---
 label: "Règlement du Survie"
 icon: repo
+order: 1
+meta:
+  title: "Règlement du Survie"
+  description: "Page du Règlement du Survie pour le serveur d'HeavenCube !"
 ---
 # Règlement du Survie
 
