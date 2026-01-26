@@ -1,7 +1,7 @@
-input: .
+input: ./src
 output: retype
 
-url: https://heavencube.github.io/wiki.heavencube.fr/ # Use your website address here
+url: heavencube.github.io/wiki.heavencube.fr/ # Use your website address here
 
 branding:
   title: HeavenCube
