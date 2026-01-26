@@ -91,6 +91,6 @@ Si tu penses qu'une sanction est injuste, ouvre un **[Ticket sur Discord](https:
 
 ---
 
-!!!caution Mise à jour du règlement
+!!!danger Mise à jour du règlement
 Nous pouvons modifier ces règles à tout moment et sans préavis. Reste attentif aux **Annonces** et aux **Changelogs** sur notre **[Discord](https://heavencube.fr/?ref=social-discord)**.
 !!!
