@@ -1,7 +1,7 @@
 input: .
 output: retype-site
 
-url: heavencube.github.io/wiki.heavencube.fr/
+url: wiki.heavencube.fr
 
 start:
   # Uncomment the next line to try Retype Pro features
