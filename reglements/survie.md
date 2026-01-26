@@ -6,7 +6,7 @@ icon: repo
 
 Bienvenue sur **HeavenCube** ! Notre objectif est de t'offrir une expérience de jeu agréable, basée sur le respect, la créativité et l'entraide. En jouant ici, tu acceptes de respecter les règles suivantes.
 
-!!!info Info
+!!!info Information importante
 Ce règlement s'applique à l'ensemble de nos services (Jeu, Discord, Site).
 !!!
 
@@ -15,18 +15,18 @@ Ce règlement s'applique à l'ensemble de nos services (Jeu, Discord, Site).
 ## :handshake: Comportement et Respect
 
 ### 1. Respect d'autrui
-Le respect est la base. Les insultes, le harcèlement, la discrimination (racisme, sexisme, homophobie, etc.) et tout comportement toxique sont strictement interdits.
+Le respect c'est la base ! Les insultes, le harcèlement, la discrimination (racisme, sexisme, homophobie, etc.) et tout comportement toxique sont strictement interdits.
 
 ### 2. Contenu inapproprié
 Ton pseudo, ton skin et tes messages ne doivent contenir aucun élément offensant (pornographie, politique, haine). 
 * [!badge variant="danger" text="Pseudo inapproprié"] : Bannissement de 30 jours.
-* [!badge variant="warning" text="Skin inapproprié"] : Kick immédiat, puis bannissement si tu ne le changes pas.
+* [!badge variant="warning" text="Skin inapproprié"] : Kick immédiat, puis bannissement si tu ne le changes pas à ton retour.
 
 ### 3. Publicité et Spam
 La publicité pour d'autres serveurs est interdite. Le spam ou l'utilisation excessive de majuscules dans le chat sera également sanctionné.
 
 ### 4. Confidentialité
-Ne divulgue jamais d'informations personnelles (adresse, nom réel, téléphone) d'un autre joueur, peu importe la raison. C'est une faute grave.
+Ne divulgue jamais d'informations personnelles (adresse, nom réel, téléphone, *etc...*) d'un autre joueur ou de toi-même, peu importe la raison. C'est une faute grave qui peut avoir de réelles conséquences.
 
 ---
 
@@ -34,13 +34,14 @@ Ne divulgue jamais d'informations personnelles (adresse, nom réel, téléphone)
 
 ### 1. Triche et Avantages déloyaux
 Toute forme de triche est bannie. Cela inclut :
-* Les clients de triche (Hacked Clients).
-* Les mods de type **X-Ray**, **SeedCracker** ou **Minimap** affichant les joueurs/entités.
-* L'automatisation (**Macros**, **Auto-click**, **Printer** ou "Easy place" de Litematica).
+* Les clients et mods de triche.
+* Les mods de type **X-Ray**, **SeedCracker** ou **Minimap** affichant les entités à distance.
+* L'automatisation (**Macros**, **Auto-click**, **Easy place** du mod Litematica).
 * Les systèmes **Anti-AFK**.
 
-[!warning] Un doute sur un mod ?
+!!!warning Un doute sur un mod ?
 Si tu n'es pas sûr qu'un mod soit autorisé, demande d'abord à un membre du staff !
+!!!
 
 ### 2. Fair-play et Économie
 * **Vols et Grief :** Le pillage et la destruction des constructions d'autrui sont interdits.
@@ -48,15 +49,15 @@ Si tu n'es pas sûr qu'un mod soit autorisé, demande d'abord à un membre du st
 * **Vente IRL :** Il est interdit d'échanger des objets du jeu contre de l'argent réel.
 
 ### 3. Monde Récolte
-[!info] Note importante
-Le grief est autorisé en monde récolte. Aucun remboursement ne sera effectué pour une perte de stuff ou de construction dans ce monde.
+!!!info Note importante
+Le grief est toléré dans le monde récolte, aucun remboursement ne sera effectué pour une perte de stuff ou de construction ici.
+!!!
 
 ---
 
 ## 🏰 Clans et Pwarps
 
-* **Nommage :** Les noms de clans et de pwarps doivent rester corrects (pas de noms provocants ou politiques).
-* **Territoires :** Tu dois laisser une distance d'au moins **5 chunks** entre ton claim et celui d'un autre clan.
+* **Nom :** Les noms de clans et des pwarps doivent rester corrects (pas de noms provocants).
 * **Limites :** Un clan est limité à **3 pwarps** au total.
 
 ---
@@ -65,7 +66,7 @@ Le grief est autorisé en monde récolte. Aucun remboursement ne sera effectué 
 
 * **Multi-comptes :** Tu as le droit à **2 comptes maximum** par joueur.
 * **Connexion simultanée :** Il est interdit d'être connecté avec tes deux comptes en même temps.
-* **Prêt de compte :** Tu es responsable de ton compte. Si tu le prêtes et qu'une bêtise est faite, les deux comptes seront sanctionnés.
+* **Prêt de compte :** Tu es 100% responsable de ton compte, si tu le prêtes et qu'une bêtise est faite, il sera sanctionné comme normalement.
 * **Votes :** Les doubles comptes ne sont pas comptabilisés dans le top vote mensuel.
 
 ---
@@ -74,19 +75,18 @@ Le grief est autorisé en monde récolte. Aucun remboursement ne sera effectué 
 
 Le staff veille au respect de ces règles. Voici comment nous fonctionnons :
 
-1. **Avertissement :** Un message (`/msg` ou `/mail`) d'un modérateur compte comme un avertissement.
-2. **Kick :** Une expulsion du serveur est enregistrée dans ton **casier**.
-3. **Bannissement :** Pour les fautes graves ou les récidives. Nous n'avons pas d'obligation de t'avertir avant un ban.
+1. **Avertissement :** Un message type `/msg` ou `/mail` provenant d'un **Staff** compte comme un **avertissement**.
+2. **Kick :** Une expulsion du serveur est enregistrée dans ton **casier** en ligne visible par les Staffs.
+3. **Bannissement :** Pour les fautes graves ou les récidives : nous n'avons pas d'obligation de t'avertir avant un ban.
 
-[!success] Contestation
-Si tu penses qu'une sanction est injuste, ouvre un **Ticket sur Discord**. Le contournement de sanction avec un autre compte aggravera ta peine.
-
----
-
-## 📖 Histoire et RP (Lore)
-Pour ne pas gâcher le plaisir des autres, le **spoil est interdit** (indices, dialogues, solutions). Si tu veux aider quelqu'un pour une quête, fais-le uniquement par message privé (`/msg`).
+!!!success Contestation
+Si tu penses qu'une sanction est injuste, ouvre un **[Ticket sur Discord](https://heavencube.fr/?ref=social-discord)**.
+💡 PS: Le contournement de sanction avec un autre compte aggravera la sanction déjà présente.
+!!!
 
 ---
 
-[!info] Mise à jour du règlement
-Nous pouvons modifier ces règles à tout moment. Reste attentif aux annonces sur notre [Discord](https://discord.gg/TuRxVsv93K).
+!!!info Mise à jour du règlement
+Nous pouvons modifier ces règles à tout moment, sans forcément prévenir à l'avance.
+Reste attentif aux **Annonces** et aux **Changelogs** sur notre **[Discord](https://heavencube.fr/?ref=social-discord)**.
+!!!
