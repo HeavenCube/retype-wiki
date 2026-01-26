@@ -1,7 +1,7 @@
 input: .
 output: docs
 
-url: wiki.heavencube.fr # Use your website address here
+url: "https://heavencube.github.io/wiki.heavencube.fr/" # Use your website address here
 
 start:
   # Uncomment the next line to try Retype Pro features
@@ -38,4 +38,4 @@ favicon: "assets/favicons/favicon.ico"
 showSidebarFilter: false
 
 footer:
-  copyright: "© Copyright {{ year }}. [HeavenCube](https://heavencube.fr/) Tous droits réservés."
+  copyright: "© 2021-{{ year }} [HeavenCube](https://heavencube.fr/) • Non associé à Mojang/Microsoft."
