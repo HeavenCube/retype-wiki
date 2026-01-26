@@ -1,6 +1,5 @@
 ---
 icon: icon-discussion-closed
-backlinks:
-  enabled: false
+expanded: true
 ---
 # Règlements

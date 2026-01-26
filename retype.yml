@@ -41,7 +41,6 @@ locale: fr
 favicon: "assets/favicons/favicon.ico"
 
 showSidebarFilter: false
-expanded: true
 
 footer:
   copyright: "© Copyright {{ year }}. [HeavenCube](https://heavencube.fr/) Tous droits réservés."
