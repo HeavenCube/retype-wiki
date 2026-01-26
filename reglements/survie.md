@@ -2,7 +2,7 @@
 label: "Règlement du Survie"
 icon: repo
 ---
-# Règlement du Survie d'HeavenCube
+# Règlement du Survie
 
 Bienvenue sur **HeavenCube** ! Notre objectif est de t'offrir une expérience de jeu agréable, basée sur le respect, la créativité et l'entraide. En jouant ici, tu acceptes de respecter les règles suivantes.
 
