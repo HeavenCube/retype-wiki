@@ -1,1 +1,1 @@
-window.__DOCS_SEARCH__ = [[{"l":"Test"}],[{"l":"Règlement global d'HeavenCube"}]];
+window.__DOCS_SEARCH__ = [[{"l":"Test"}],[{"l":"Règlement global d'HeavenCube"}],[{"l":"Règlement global d'HeavenCube"}]];
