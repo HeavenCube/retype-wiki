@@ -40,7 +40,7 @@ Toute forme de triche est bannie. Cela inclut :
 * Les systèmes **Anti-AFK**.
 
 !!!warning Un doute sur un mod ?
-Si tu n'es pas sûr qu'un mod soit autorisé, demande d'abord à un membre du staff !
+:interrobang: Si tu n'es pas sûr qu'un mod soit autorisé, demande d'abord à un membre du staff !
 !!!
 
 ### 2. Fair-play et Économie
@@ -50,7 +50,7 @@ Si tu n'es pas sûr qu'un mod soit autorisé, demande d'abord à un membre du st
 
 ### 3. Monde Récolte
 !!!info Note importante
-Le grief est toléré dans le monde récolte, aucun remboursement ne sera effectué pour une perte de stuff ou de construction ici.
+:dart: Le grief est toléré dans le monde récolte, aucun remboursement ne sera effectué pour une perte de stuff ou de construction ici.
 !!!
 
 ---
@@ -80,13 +80,13 @@ Le staff veille au respect de ces règles. Voici comment nous fonctionnons :
 3. **Bannissement :** Pour les fautes graves ou les récidives : nous n'avons pas d'obligation de t'avertir avant un ban.
 
 !!!success Contestation
-Si tu penses qu'une sanction est injuste, ouvre un **[Ticket sur Discord](https://heavencube.fr/?ref=social-discord)**.
-:bulb: PS: Le contournement de sanction avec un autre compte aggravera la sanction déjà présente.
+:bulb: Si tu penses qu'une sanction est injuste, ouvre un **[Ticket sur Discord](https://heavencube.fr/?ref=social-discord)**.
+PS: Le contournement de sanction avec un autre compte aggravera la sanction déjà présente.
 !!!
 
 ---
 
 !!!info Mise à jour du règlement
-Nous pouvons modifier ces règles à tout moment, sans forcément prévenir à l'avance.
-:loudspeaker: Reste attentif aux **Annonces** et aux **Changelogs** sur notre **[Discord](https://heavencube.fr/?ref=social-discord)**.
+:loudspeaker: Nous pouvons modifier ces règles à tout moment, sans forcément prévenir à l'avance.
+Reste attentif aux **Annonces** et aux **Changelogs** sur notre **[Discord](https://heavencube.fr/?ref=social-discord)**.
 !!!
