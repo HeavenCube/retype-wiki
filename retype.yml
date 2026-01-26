@@ -9,6 +9,13 @@ branding:
   logo: "assets/logo/website-logo-compressed.webp"
   logoAlign: left
 
+search:
+  preload: true
+
+generator:
+  directoryIndex:
+    append: true
+
 links:
 - text: Site
   link: https://heavencube.fr
