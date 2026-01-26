@@ -11,7 +11,7 @@ meta:
 
 Bienvenue sur **HeavenCube** ! Notre objectif est de t'offrir une expérience de jeu agréable, basée sur le respect, la créativité et l'entraide. En jouant ici, tu acceptes de respecter les règles suivantes.
 
-!!!info :information_source: Information importante
+!!!info Information importante
 Ce règlement s'applique à l'ensemble de nos services (Jeu, Discord, Site).
 !!!
 
@@ -44,7 +44,7 @@ Toute forme de triche est bannie. Cela inclut :
 * L'automatisation (**Macros**, **Auto-click**, **Easy place** du mod Litematica).
 * Les systèmes **Anti-AFK**.
 
-!!!warning :interrobang: Un doute sur un mod ?
+!!!warning Un doute sur un mod ?
 Si tu n'es pas sûr qu'un mod soit autorisé, demande d'abord à un membre du staff !
 !!!
 
@@ -54,7 +54,7 @@ Si tu n'es pas sûr qu'un mod soit autorisé, demande d'abord à un membre du st
 * **Vente IRL :** Il est interdit d'échanger des objets du jeu contre de l'argent réel.
 
 ### 3. Monde Récolte
-!!!info :dart: Note importante
+!!!info Note importante
 Le grief est **autorisé** dans le monde récolte. Aucun remboursement ne sera effectué pour une perte de stuff ou de construction dans cette zone.
 !!!
 
@@ -84,13 +84,13 @@ Le staff veille au respect de ces règles. Voici comment nous fonctionnons :
 2. **Kick :** Une expulsion du serveur est enregistrée dans ton casier, visible par l'équipe de modération.
 3. **Bannissement :** Pour les fautes graves ou les récidives. Nous n'avons pas d'obligation de t'avertir avant un bannissement.
 
-!!!success :bulb: Contestation
+!!!success Contestation
 Si tu penses qu'une sanction est injuste, ouvre un **[Ticket sur Discord](https://heavencube.fr/?ref=social-discord)**.
 *Note : Le contournement de sanction avec un autre compte aggravera ta peine actuelle.*
 !!!
 
 ---
 
-!!!info :loudspeaker: Mise à jour du règlement
+!!!caution Mise à jour du règlement
 Nous pouvons modifier ces règles à tout moment et sans préavis. Reste attentif aux **Annonces** et aux **Changelogs** sur notre **[Discord](https://heavencube.fr/?ref=social-discord)**.
 !!!
