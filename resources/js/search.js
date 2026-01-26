@@ -1,1 +1,1 @@
-window.__DOCS_SEARCH__ = [[{"l":"Test"}],[{"l":"Règlements"}],[{"l":"Règlement du Survie d'HeavenCube"}]];
+window.__DOCS_SEARCH__ = [[{"l":"Test"}],[{"l":"Règlement du Survie d'HeavenCube"}],[{"l":"Règlement du Survie d'HeavenCube"}]];
