@@ -1,5 +1,5 @@
 ---
-label: "Règlement du Survie"
+label: "Règlement du Discord"
 icon: repo
 ---
-# Règlement du Survie d'HeavenCube
+# Règlement du Discord d'HeavenCube
