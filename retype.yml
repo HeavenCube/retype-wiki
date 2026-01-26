@@ -1,7 +1,7 @@
 input: ./
 output: retype-site
 
-url: wiki.heavencube.fr
+url: heavencube.github.io/wiki.heavencube.fr
 
 branding:
   title: HeavenCube
