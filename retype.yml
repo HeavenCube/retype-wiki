@@ -1,11 +1,14 @@
-input: .
+input: ./
 output: retype-site
 
 url: wiki.heavencube.fr
 
-start:
-  # Uncomment the next line to try Retype Pro features
-  # pro: true
+search:
+  preload: true
+
+generator:
+  directoryIndex:
+    append: true
 
 branding:
   title: HeavenCube
