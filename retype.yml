@@ -3,17 +3,10 @@ output: retype-site
 
 url: wiki.heavencube.fr
 
-search:
-  preload: true
-
-generator:
-  directoryIndex:
-    append: true
-
 branding:
   title: HeavenCube
   label: 1.21.11
-  logo: "https://heavencube.fr/storage/img/website-logo-compressed.webp"
+  logo: "assets/logo/website-logo-compressed.webp"
   logoAlign: left
 
 links:
