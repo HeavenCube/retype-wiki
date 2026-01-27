@@ -12,7 +12,7 @@ meta:
 Bienvenue sur **HeavenCube** ! Notre objectif est de t'offrir une expérience de jeu agréable, basée sur le respect, la créativité et l'entraide. 
 
 !!!info Information importante
-En jouant ici, tu acceptes de respecter toutes les règles suivantes.
+En jouant ici, tu acceptes de respecter toutes les règles suivantes dans le règlement.
 !!!
 
 ---
