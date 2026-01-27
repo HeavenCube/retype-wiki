@@ -9,10 +9,10 @@ meta:
 
 # Règlement du Survie
 
-Bienvenue sur **HeavenCube** ! Notre objectif est de t'offrir une expérience de jeu agréable, basée sur le respect, la créativité et l'entraide. 
+Notre objectif est de t'offrir une expérience de jeu agréable, basée sur le respect, la communication et l'entraide entre joueurs.
 
 !!!info Information importante
-En jouant ici, tu acceptes de respecter toutes les règles suivantes dans le règlement.
+En jouant sur les services d'HeavenCube, tu acceptes de respecter la totalité des règles suivantes.
 !!!
 
 ---
