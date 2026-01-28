@@ -1,9 +1,9 @@
 ---
-label: "Tuto - Créer un clan"
+label: "Comment créer un clan ?"
 icon: repo
 order: 0
 meta:
-  title: "Comment créer un clan ? [!info Tutoriel]"
+  title: "Comment créer un clan ?"
   description: "Page descriptive sur la procédure pour créer un clan sur HeavenCube."
 ---
-# Créer un clan.
+# Comment créer un clan ? [!info Tutoriel]
