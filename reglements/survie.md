@@ -7,12 +7,12 @@ meta:
   description: "Prends connaissance des règles de vie et de jeu sur le serveur Survie d'HeavenCube."
 ---
 
-# Règlement du Survie
+# Règlement général du Serveur
 
-Notre objectif est de t'offrir une expérience de jeu agréable, basée sur le respect, la communication et l'entraide entre joueurs.
+Notre objectif est de t'offrir une expérience de jeu agréable, basée sur le respect, la communication et l'entraide entre joueurs. Ce présent règlement comporte toutes les règles en vigueur sur le Serveur.
 
 !!!info Information importante
-En jouant sur les services d'HeavenCube, tu acceptes de respecter la totalité des règles suivantes.
+En utilisant les services d'HeavenCube (serveur Minecraft et Discord), tu acceptes de respecter la totalité des règles ci-dessous.
 !!!
 
 ---
@@ -20,18 +20,20 @@ En jouant sur les services d'HeavenCube, tu acceptes de respecter la totalité d
 ## :handshake: Comportement et Respect
 
 ### 1. Respect d'autrui
-Le respect, c'est la base ! Les insultes, le harcèlement, la discrimination (racisme, sexisme, homophobie, etc.) et tout comportement toxique sont strictement interdits.
+Tout utilisateur d'HeavenCube à droit au respect. Les insultes, le harcèlement, la discrimination (comprenant toute forme de racisme, sexisme, homophobie, etc.) ou n'importe quel comportement toxique sont strictement interdits.
 
 ### 2. Contenu inapproprié
-Ton pseudo, ton skin et tes messages ne doivent contenir aucun élément offensant (pornographie, politique, haine). 
+Ton pseudo, ton skin et tes messages ne doivent contenir aucun élément offensant (pornographie, politique, haine, etc.). 
+* [!badge variant="warning" text="Skin inapproprié"] : Kick immédiat, avec obligation de changer puis bannissement si récidive.
 * [!badge variant="danger" text="Pseudo inapproprié"] : Bannissement de 30 jours.
-* [!badge variant="warning" text="Skin inapproprié"] : Kick immédiat, puis bannissement si tu ne le changes pas dès ton retour.
 
 ### 3. Publicité et Spam
-La publicité pour d'autres serveurs est interdite. Le spam ou l'utilisation excessive de majuscules dans le chat est également sanctionné.
+La publicité pour d'autres serveurs est interdite (partage d'adresse IP ou bien invitation à rejoindre un autre serveur). 
+Le spam, flood ou l'utilisation excessive de majuscules dans le chat est également à éviter. Sous peine de sanctions en cas de récidive.
 
 ### 4. Confidentialité
-Ne divulgue jamais d'informations personnelles (adresse, nom réel, téléphone, etc.) d'un autre joueur ou des tiennes, peu importe la raison. C'est une faute grave qui peut avoir de réelles conséquences.
+Ne divulgue jamais d'informations personnelles (adresse postale, nom de famille, téléphone, etc.) d'un autre joueur ou des tiennes, peu importe la raison. C'est une faute grave qui peut avoir de réelles conséquences.
+Nous ne demanderons à aucun joueur de fournir ses coordonnées personnelles réelles dans le cadre de l’utilisation du serveur de jeu. Une telle collecte d’informations peut seulement intervenir sur la boutique en ligne de HeavenCube, lorsque ces données sont nécessaires au traitement des commandes (livraison, facturation, suivi d’achats).
 
 ---
 
@@ -45,17 +47,17 @@ Toute forme de triche est bannie. Cela inclut :
 * Les systèmes **Anti-AFK**.
 
 !!!warning Un doute sur un mod ?
-Si tu n'es pas sûr qu'un mod soit autorisé, demande d'abord à un membre du staff !
+Si tu n'es pas sûr si un mod est autorisé, demande d'abord à un membre du staff !
 !!!
 
 ### 2. Fair-play et Économie
 * **Vols et Grief :** Le pillage et la destruction des constructions d'autrui sont interdits.
 * **Arnaques :** Interdiction d'arnaquer les autres joueurs. Utilise la commande `/trade` pour sécuriser tes échanges.
-* **Vente IRL :** Il est interdit d'échanger des objets du jeu contre de l'argent réel.
+* **Vente IRL :** Il est interdit d'échanger des objets du jeu contre une contrepartie réelle.
+* **Use-bug :** Tout abus d'un bug est interdit, il peut être exposé à des sanctions. Si tu trouves un bug, n'hésite pas à le signaler sur le [Discord](https://heavencube.fr/?ref=social-discord).
 
-### 3. Monde Récolte
 !!!info Note importante
-Le grief est **autorisé** dans le monde récolte. Aucun remboursement ne sera effectué pour une perte de stuff ou de construction dans cette zone.
+Le grief est **toléré** dans le monde récolte. Aucun remboursement ne sera effectué pour une perte de stuff ou de construction dans cette zone.
 !!!
 
 ---
@@ -92,5 +94,5 @@ Si tu penses qu'une sanction est injuste, ouvre un **[Ticket sur Discord](https:
 ---
 
 !!!danger Mise à jour du règlement
-Nous pouvons modifier ces règles à tout moment et sans préavis. Reste attentif aux **Annonces** et aux **Changelogs** sur notre **[Discord](https://heavencube.fr/?ref=social-discord)**.
+Ce présent règlement peut être modifié à tout moment et sans préavis. N'hésite pas à le consulter régulièrement et reste attentif aux **Annonces** et aux **Changelogs** sur notre **[Discord](https://heavencube.fr/?ref=social-discord)**.
 !!!
