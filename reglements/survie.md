@@ -1,9 +1,9 @@
 ---
-label: "Règlement du Survie"
+label: "Règlement général"
 icon: repo
 order: 1
 meta:
-  title: "Règlement du Survie - HeavenCube"
+  title: "Règlement général d'HeavenCube"
   description: "Prends connaissance des règles de vie et de jeu sur le serveur Survie d'HeavenCube."
 ---
 
