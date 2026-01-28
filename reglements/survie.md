@@ -29,10 +29,12 @@ Ton pseudo, ton skin et tes messages ne doivent contenir aucun élément offensa
 
 ### 3. Publicité et Spam
 La publicité pour d'autres serveurs est interdite (partage d'adresse IP ou bien invitation à rejoindre un autre serveur). 
+
 Le spam, flood ou l'utilisation excessive de majuscules dans le chat est également à éviter. Sous peine de sanctions en cas de récidive.
 
 ### 4. Confidentialité
 Ne divulgue jamais d'informations personnelles (adresse postale, nom de famille, téléphone, etc.) d'un autre joueur ou des tiennes, peu importe la raison. C'est une faute grave qui peut avoir de réelles conséquences.
+
 Nous ne demanderons à aucun joueur de fournir ses coordonnées personnelles réelles dans le cadre de l’utilisation du serveur de jeu. Une telle collecte d’informations peut seulement intervenir sur la boutique en ligne de HeavenCube, lorsque ces données sont nécessaires au traitement des commandes (livraison, facturation, suivi d’achats).
 
 ---
